@@ -1,6 +1,10 @@
 # Ethereum Blockchain Intro
 
+---
+
 ## ETHER: O "Fuel" que move a rede ethereum
+
+---
 
 ## Sobre a talk
 * Definicao de Ethereum
@@ -12,6 +16,8 @@
 * Ethereum Virtual Machines
 * Aplicacoes interessantes
 * Comprar ETHER (GAS)
+
+---
 
 ## O que e uma Blockchain
 
@@ -35,6 +41,8 @@ aplicada a base de dados nenhuma outra transacao a pode alterar (nao repudiavel)
 Todo o registo na blockchain tem um timestamp. Tudo e imutavel. Registo
 historico completo.
 
+---
+
 ## Definicao de ETHEREUM
 
 Definicao
@@ -50,6 +58,8 @@ relativamente facil para qualquer pessoa com conhecimentos basicos de
 programacao criar uma DAPP. Se alguem sabe Java, JSON, Javascript, Python este e
 o momento :)
 
+---
+
 ## Expandindo a Definicao de ETHEREUM
 
 * Ethereum e essencialmente um grande computador a escala planetaria (plataforma)
@@ -59,6 +69,7 @@ o momento :)
 * Ethereum e tambem um algoritmo para encontro de consensus
 * Proof of stake (Serenity) rapida e efficiente
 
+---
 
 ## Expandindo a Definicao de ETHEREUM
 * 60 milhoes de ehters foram pre-minados para o financiamento do projecto
@@ -67,6 +78,7 @@ o momento :)
 * 2/3 ethers sao por vezes enviados para outro mineiro (miner) se eles tambem
 * encontraram a solucao mas o seu bloco nao foi incluido na blockchain (uncle/aunt reward)
 
+---
 
 ## O que o Ethereum nao e
 
@@ -79,6 +91,8 @@ multiplas vezes mais lento)
 * Nao e uma plataforma centralizada (E baseado em algoritmos de concensus descentralizado)
 * Nao e uma plataforma facil de desenvolver
 
+---
+
 ## ETHEREUM vs. BITCOIN
 
 * Bitcoin e um sistema baseado em Blockchain criado para ser possivel transmitir valor digitalmente, o Bitcoin e a cryptomoeda na rede Bitcoin
@@ -87,6 +101,8 @@ multiplas vezes mais lento)
 
 * Outra forma de olhar para a maior diferenca o Ethereum e a uma plataforma global/mundial para correr scripts/DAPPS. Para a podermos usar tem de se fornecer "combustivel" que e o Ether, o token da rede Ethereum. O Ethereum pode ser visto como uma plataforma distribuida a escala mundial para executar e criar DAPPS. O Bitcoin possui uma blockchain para confirmar transacaoes e evitar o problema de gastar o mesmo bitcoin duas vezes. O Bitcoin e um meio para acordar transacoes, nada a ver com a execucao de codigo. Na realidade sao duas coisas muito diferentes.
 
+---
+
 ## SMART CONTRACTS - "Contratos inteligentes"
 
 * `Smart contracts` tambem conhecidos como `smart property` sao protocolos computacionais que facilitam, verificam e ou reforcam a negociacao ou performance de um contracto ou que tornam uma claususla contratual desnecessaria. Os `Smar Contracts` frequentemente emulam a logica de clausulas contratuais.
@@ -94,6 +110,8 @@ multiplas vezes mais lento)
 * Um contrato no mundo da linguagem de programacao `Solidity` e um pedaco de codigo (as funcoes) e dados (o estado) que residem num endereco especifico na blockchain do ethereum
 
 * Um `smart contract` pode ser escrito em `Solidity`, `LLL`, `Mutant` ou `Serpent`. (Similares a JS, Python, Lisp e GO respectivamente)
+
+---
 
 ## Linguagem de programacao SOLIDITY
 
@@ -107,6 +125,8 @@ https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.10+commit.f0d5
 
 * Protege o programador com limites para registos, strings e valores.
 
+---
+
 ## Maquina Virtual de Ethereum - EVM
 
 * Uma maquina virtual completa de 256 bits onde pode ser executado qualquer byte code (opcode) EVM arbitrario. E distribuida, suporta transacoes, smart contracts e DAPPS.
@@ -116,6 +136,8 @@ https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.10+commit.f0d5
 * Built for Ether to process transactions.
 
 * Comparavel a outras maquinas virtuais como a JVM.
+
+---
 
 ## Programas de Interesse
 
@@ -130,6 +152,8 @@ http://transactivegrid.net
 
 * Find out more about these projects and many others being built on Ethereum here: http://dapps.ethercasts.com
 
+---
+
 ## BUY ETHER ( FUEL - GAS)
 
 * Coinbase
@@ -137,6 +161,8 @@ http://transactivegrid.net
 * Circle
 * CEX.IO
 * Coinhouse
+
+---
 
 ## PRECO do ETHER em 2017-10-31
 
