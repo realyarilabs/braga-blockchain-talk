@@ -26,26 +26,26 @@ Blockchain é um tipo de Base de dados Distribuidos que guarda um registro de tr
 
 +++
 
-### O que e uma Blockchain
+#### Blockchain
 Um bloco é um componente integrante da blockchain onde são registrados algumas ou todas as transações mais recentes e uma vez concluído é guardado na blockchain como base de dados permanente. Toda vez que um bloco é concluído um novo é gerado. Todos os bloco na blockchain estao ligado em serie uns aos outros - como uma cadeia - onde cada bloco contém uma referência para o bloco anterior.
 
 +++
 
-### O que e uma Blockchain
+#### Blockchain
 Todos os nodos que participam na rede podem ler as entradas nesta base de dados.
 
 Se quisermos alterar esta base de dados temos de criar uma transacao que tem de ser aceite por todos os outros participantes por concenso.
 
 +++
-### O que e uma Blockchain
+#### Blockchain
 A palavra transaccao significa que a mudanca que queremos realizar (ex: dois valores ao mesmo tempo) ou ocorre totalmente ou nao ocorre.
 
 +++
-### O que e uma Blockchain
+#### Blockchain
 Para alem disto enquanto a transacao e aplicada a base de dados nenhuma outra transacao a pode alterar (nao repudiavel)
 
 +++
-### O que e uma Blockchain
+#### Blockchain
 Todo o registo na blockchain tem um timestamp. Tudo e imutavel. Registo historico completo.
 
 ---
@@ -54,16 +54,13 @@ Todo o registo na blockchain tem um timestamp. Tudo e imutavel. Registo historic
 
 Definicao
 
-Ethereum e uma plataforma open source que permite que qualquer pessoa possa
-criar aplicacoes descentralizadas (dapps) que correm em tecnologia baseada na
-blockchain. Tal como no Bitcoin, ninguem controla ou e dono do Ethereum - e um
-projecto open-source criado e mantido por muitas pessoas.
+Ethereum e uma plataforma open source que permite que qualquer pessoa possa criar aplicacoes descentralizadas (DAPPS) que correm em tecnologia baseada na blockchain. Tal como no Bitcoin, ninguem controla ou e dono do Ethereum - e um projecto open-source criado e mantido por muitas pessoas.
 
-Contrariamente ao protocolo Bitcoin, o Ethereum foi desenhado para ser adaptavel
-e flexivel. E facil criar novas aplicacoes na plataforma Ethereum. E
-relativamente facil para qualquer pessoa com conhecimentos basicos de
-programacao criar uma DAPP. Se alguem sabe Java, JSON, Javascript, Python este e
-o momento :)
+
++++
+### ETHEREUM
+Contrariamente ao protocolo Bitcoin, o Ethereum foi desenhado para ser adaptavel e flexivel. E facil criar novas aplicacoes na plataforma Ethereum. E relativamente facil para qualquer pessoa com conhecimentos basicos de
+programacao criar uma DAPP. Se alguem sabe Java, JSON, Javascript, Python este e o momento :)
 
 ---
 
