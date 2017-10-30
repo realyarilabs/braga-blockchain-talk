@@ -7,6 +7,7 @@
 ---
 
 ## Sobre a talk
+
 * Definicao de Ethereum
 * ETHER - a Crypto Moeda
 * O que e uma Blockchain ?
@@ -23,23 +24,17 @@
 
 Blockchain é um tipo de Base de dados Distribuidos que guarda um registro de transações permanente e à prova de violação. A base de dados Blockchain consiste em dois tipos de registros: transações individuais e blocos.
 
-Um bloco é um componente integrante da blockchain onde são registrados algumas
-ou todas as transações mais recentes e uma vez concluído é guardado na
-blockchain como base de dados permanente. Toda vez que um bloco é concluído um
-novo é gerado. Todos os bloco na blockchain estao ligado em serie uns aos outros
-- como uma cadeia - onde cada bloco contém uma referência para o bloco anterior.
++++
 
+Um bloco é um componente integrante da blockchain onde são registrados algumas ou todas as transações mais recentes e uma vez concluído é guardado na blockchain como base de dados permanente. Toda vez que um bloco é concluído um novo é gerado. Todos os bloco na blockchain estao ligado em serie uns aos outros - como uma cadeia - onde cada bloco contém uma referência para o bloco anterior.
+
++++
 
 Todos os nodos que participam na rede podem ler as entradas nesta base de dados.
 
-Se quisermos alterar esta base de dados temos de criar uma transacao que tem de
-ser aceite por todos os outros participantes por concenso. A palavra transaccao
-significa que a mudanca que queremos realizar (ex: dois valores ao mesmo tempo)
-ou ocorre totalmente ou nao ocorre. Para alem disto enquanto a transacao e
-aplicada a base de dados nenhuma outra transacao a pode alterar (nao repudiavel)
+Se quisermos alterar esta base de dados temos de criar uma transacao que tem de ser aceite por todos os outros participantes por concenso. A palavra transaccao significa que a mudanca que queremos realizar (ex: dois valores ao mesmo tempo) ou ocorre totalmente ou nao ocorre. Para alem disto enquanto a transacao e aplicada a base de dados nenhuma outra transacao a pode alterar (nao repudiavel)
 
-Todo o registo na blockchain tem um timestamp. Tudo e imutavel. Registo
-historico completo.
+Todo o registo na blockchain tem um timestamp. Tudo e imutavel. Registo historico completo.
 
 ---
 
