@@ -113,34 +113,40 @@ programacao criar uma DAPP. Se alguem sabe Java, JSON, Javascript, Python este e
 
 +++
 ### ETHEREUM vs. BITCOIN
-Outra forma de olhar para a maior diferenca o Ethereum e a uma plataforma global/mundial para correr scripts/DAPPS. Para a podermos usar tem de se fornecer "combustivel" que e o Ether, o token da rede Ethereum. O Ethereum pode ser visto como uma plataforma distribuida a escala mundial para executar e criar DAPPS. O Bitcoin possui uma blockchain para confirmar transacaoes e evitar o problema de gastar o mesmo bitcoin duas vezes. O Bitcoin e um meio para acordar transacoes, nada a ver com a execucao de codigo. Na realidade sao duas coisas muito diferentes.
+A maior diferenca e que o Ethereum e a uma plataforma global/mundial para correr scripts/DAPPS.
+Para a podermos usar tem de se fornecer "combustivel" que e o Ether, o token da rede Ethereum.
+O Ethereum pode ser visto como uma plataforma distribuida a escala mundial para executar e criar DAPPS.
+
++++
+### ETHEREUM vs. BITCOIN
+O Bitcoin possui uma blockchain para confirmar transacaoes e evitar o problema de gastar o mesmo bitcoin duas vezes. O Bitcoin e um meio para acordar transacoes, nada a ver com a execucao de codigo. Na realidade sao duas coisas muito diferentes.
 
 ---
 
 ## SMART CONTRACTS - "Contratos inteligentes"
 
-* `Smart contracts` tambem conhecidos como `smart property` sao protocolos computacionais que facilitam, verificam e ou reforcam a negociacao ou performance de um contracto ou que tornam uma claususla contratual desnecessaria. Os `Smar Contracts` frequentemente emulam a logica de clausulas contratuais.
+`Smart contracts` tambem conhecidos como `smart property` sao protocolos computacionais que facilitam, verificam e ou reforcam a negociacao ou performance de um contracto ou que tornam uma claususla contratual desnecessaria. Os `Smar Contracts` frequentemente emulam a logica de clausulas contratuais.
 
 +++
 ### SMART CONTRACTS - "Contratos inteligentes"
-* Um contrato no mundo da linguagem de programacao `Solidity` e um pedaco de codigo (as funcoes) e dados (o estado) que residem num endereco especifico na blockchain do ethereum
+Um contrato no mundo da linguagem de programacao `Solidity` e um pedaco de codigo (as funcoes) e dados (o estado) que residem num endereco especifico na blockchain do ethereum
 
 +++
 ### SMART CONTRACTS - "Contratos inteligentes"
-* Um `smart contract` pode ser escrito em `Solidity`, `LLL`, `Mutant` ou `Serpent`. (Similares a JS, Python, Lisp e GO respectivamente)
+Um `smart contract` pode ser escrito em `Solidity`, `LLL`, `Mutant` ou `Serpent`. (Similares a JS, Python, Lisp e GO respectivamente)
 
 ---
 
 ## Linguagem de programacao SOLIDITY
 
-* Para testar pode ser utilizado o browser a nao e necessario fazer o download de nada mais a nao ser que seja necessario compilar ou injectar o codigo na blockchain.
+Para testar pode ser utilizado o browser a nao e necessario fazer o download de nada mais a nao ser que seja necessario compilar ou injectar o codigo na blockchain.
 
 +++
 ### SOLIDITY
 
-Then you need to download a program called:
+Link para testar:
 
-https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.10+commit.f0d539ae.js
+https://ethereum.github.io/browser-solidity/
 
 +++
 ### SOLIDITY
