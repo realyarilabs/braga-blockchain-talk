@@ -6,6 +6,11 @@
 
 ---
 
+## Emanuel Mota - @emota7
+emanuel@yarilabs.com
+### www.yarilabs.com
+
+---
 ## Sobre a talk
 
 * Definição de Ethereum
@@ -194,8 +199,8 @@ http://transactivegrid.net
 
 ---
 
-## PRECO do ETHER em 2017-10-31
-
+## PRECO do ETHER em 2017-10-30
+ (fonte coinmarketcap.com)
 ![ethereum valuation graph](https://s3.eu-west-2.amazonaws.com/braga-blockchain/Screenshot+2017-10-31+00.09.27.png)
 
 
