@@ -210,4 +210,10 @@ http://transactivegrid.net
 ![ethereum valuation graph](https://s3.eu-west-2.amazonaws.com/braga-blockchain/Screenshot+2017-10-31+00.09.27.png)
 
 
+---
+
+## Perguntas ?
+
+Emanuel Mota - @emota7
+
 
