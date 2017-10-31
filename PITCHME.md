@@ -31,7 +31,7 @@ Blockchain é um tipo de Base de dados Distribuída que guarda um registro de tr
 +++
 
 ### Blockchain
-Um bloco é um componente integrante da blockchain onde são registrados as transações mais recentes uma vez concluído é guardado na blockchain de forma permanente. 
+Um bloco é um componente integrante da blockchain onde são registrados as transações mais recentes uma vez concluído é guardado na blockchain de forma permanente.
 Sempre que um bloco é concluído um novo é gerado. Todos os blocos na blockchain estão ligado em série uns aos outros - como uma cadeia - e cada bloco contém uma referência para o bloco anterior.
 
 +++
@@ -46,7 +46,7 @@ A palavra transação significa que a mudança que queremos realizar (ex: dois v
 
 +++
 ### Blockchain
-Para além disto enquanto a transação é aplicada à base de dados nenhuma outra transação a pode alterar. 
+Para além disto enquanto a transação é aplicada à base de dados nenhuma outra transação a pode alterar.
 
 +++
 ### Blockchain
@@ -61,23 +61,23 @@ Ethereum é uma plataforma distribuida open source que permite que qualquer pess
 
 +++
 ### ETHEREUM
-Contrariamente ao protocolo Bitcoin, o Ethereum foi desenhado para ser adaptável e flexível. É fácil criar novas aplicações na plataforma Ethereum. É relativamente fácil para qualquer pessoa com conhecimentos básicos de programação criar uma DAPP. 
+Contrariamente ao protocolo Bitcoin, o Ethereum foi desenhado para ser adaptável e flexível. É fácil criar novas aplicações na plataforma Ethereum. É relativamente fácil para qualquer pessoa com conhecimentos básicos de programação criar uma DAPP.
 ---
 
-## Ethereum é:
+## Ethereum
 
 * essencialmente um grande computador a escala planetária (plataforma)
 * nunca vai abaixo ou está exposto a interferências
 
 +++
 
-## Ethereum é:
+## Ethereum
 * criptograficamente seguro mas também é completamente transparente
 * uma plataforma para desenvolver DAPPS (com Ether)
 
 +++
 
-## Ethereum é:
+## Ethereum
 * também um algoritmo para encontro de consensus
 * Futuramente: Proof of stake (Serenity) mais rápido e eficiente
 
@@ -88,8 +88,7 @@ Contrariamente ao protocolo Bitcoin, o Ethereum foi desenhado para ser adaptáve
 +++
 ### Alguns detalhes interessantes
 * 5 ethers sao criados em cada bloco (que é minado a cada 15-17 segundos) e são transferidos para a carteira do mineiro.
-* 2/3 ethers sao por vezes enviados para outro mineiro (miner) se eles também
-* encontraram a solução mas o seu bloco não foi incluído na blockchain (uncle/aunt reward)
+* 2/3 ethers sao por vezes enviados para outro mineiro (miner) se eles também encontraram a solução mas o seu bloco não foi incluído na blockchain (uncle/aunt reward)
 
 ---
 
@@ -209,7 +208,7 @@ http://transactivegrid.net
 
 ## Perguntas ?
 
-Emanuel Mota 
+Emanuel Mota
 
 twitter: @emota7
 github: emanuel
