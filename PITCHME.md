@@ -8,9 +8,9 @@
 
 ## Sobre a talk
 
-* Definicao de Ethereum
+* Definição de Ethereum
 * ETHER - a Crypto Moeda
-* O que e uma Blockchain ?
+* O que é uma Blockchain ?
 * Bitcoin vs. Ethereum
 * Descentralizacao, "Smart Contracts" e Encriptacao
 * Linguagem de Programacao `Solidity`
@@ -108,7 +108,7 @@ programacao criar uma DAPP. Se alguem sabe Java, JSON, Javascript, Python este e
 
 +++
 ### ETHEREUM vs. BITCOIN
-* Outra forma de olhar para a maior diferenca o Ethereum e a uma plataforma global/mundial para correr scripts/DAPPS. Para a podermos usar tem de se fornecer "combustivel" que e o Ether, o token da rede Ethereum. O Ethereum pode ser visto como uma plataforma distribuida a escala mundial para executar e criar DAPPS. O Bitcoin possui uma blockchain para confirmar transacaoes e evitar o problema de gastar o mesmo bitcoin duas vezes. O Bitcoin e um meio para acordar transacoes, nada a ver com a execucao de codigo. Na realidade sao duas coisas muito diferentes.
+Outra forma de olhar para a maior diferenca o Ethereum e a uma plataforma global/mundial para correr scripts/DAPPS. Para a podermos usar tem de se fornecer "combustivel" que e o Ether, o token da rede Ethereum. O Ethereum pode ser visto como uma plataforma distribuida a escala mundial para executar e criar DAPPS. O Bitcoin possui uma blockchain para confirmar transacaoes e evitar o problema de gastar o mesmo bitcoin duas vezes. O Bitcoin e um meio para acordar transacoes, nada a ver com a execucao de codigo. Na realidade sao duas coisas muito diferentes.
 
 ---
 
@@ -180,15 +180,15 @@ http://transactivegrid.net
 
 +++
 ### DAPPS
-* Find out more about these projects and many others being built on Ethereum here: http://dapps.ethercasts.com
+* Para ver mais exemplos de DAPPS - http://dapps.ethercasts.com
 
 ---
 
-## BUY ETHER ( FUEL - GAS)
+## BUY ETHER (FUEL - GAS)
 
-* Coinbase
 * Kraken
-* Circle
+* Coinbase
+* Poloniex
 * CEX.IO
 * Coinhouse
 
@@ -196,7 +196,7 @@ http://transactivegrid.net
 
 ## PRECO do ETHER em 2017-10-31
 
-Mostrar Grafico
+![ethereum valuation graph](https://s3.eu-west-2.amazonaws.com/braga-blockchain/Screenshot+2017-10-31+00.09.27.png)
 
 
 
